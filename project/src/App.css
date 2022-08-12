@@ -1,0 +1,17 @@
+.App {
+  line-height: 2;
+  
+}
+header{
+  background-color: rgb(86, 13, 194);
+  color: white;
+  padding-left: 35%;
+}
+
+h2{
+  color:white
+}
+*{
+  margin:0;
+  padding:0;
+}

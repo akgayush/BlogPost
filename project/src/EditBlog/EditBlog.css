@@ -1,0 +1,29 @@
+h3{
+    color:black;
+    padding-left: 35%;
+    }
+    label{
+        padding-left: 35%;
+    }
+    
+    textarea{
+        position:relative; left:35%; 
+        width: 35%;
+        height: 150px;
+    }
+    #image{
+        position:relative; left:35%;
+    }
+    
+    input[type="text"]{
+        position:relative; left:35%;
+        width: 35%;
+    }
+    select{
+        position:relative; left:35%;
+        width: 35%;
+    }
+    #button{
+        position:relative; left:35%;
+    }
+    

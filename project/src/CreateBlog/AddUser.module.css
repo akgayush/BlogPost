@@ -1,0 +1,35 @@
+.input {
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 60rem;
+  display: list-item;
+  background-color: white;
+}
+.input input[type=text]{
+  width:80%;
+}
+.input label {
+  display: block;
+  font-weight: bold;
+}
+.input textarea{
+  width:80%
+}
+.input input {
+  font: inherit;
+  display:inline;
+  border: 1px solid #ccc;
+  padding: 0.15rem;
+  margin-bottom: 0.5rem;
+}
+
+.input input:focus {
+  outline: none;
+  border-color: #4f005f;
+}
+.input input[type="checkbox"]{
+  display: inline;
+}
+.input h2{
+  color: black;
+}
